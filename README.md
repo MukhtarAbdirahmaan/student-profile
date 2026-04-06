@@ -9,9 +9,11 @@ Mukhtaar Abdirahmaan
 - CSS
 - JavaScript
 - Flutter
-- Linux & Networking
+- Linux
+- Networking
 
 ## Goals
 - Become a professional Software Engineer
 - Build real-world applications
 - Start my own tech company
+- Become a professional Software Developer 
